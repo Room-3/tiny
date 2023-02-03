@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="stk.php">
+    <form action="stk.php" method="post">
         <input type="number" name="amount">
         <input type="phone" name="phone">
         <input type="submit" value="pay" name="submit">
